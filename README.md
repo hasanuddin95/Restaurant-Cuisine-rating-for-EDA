@@ -14,6 +14,11 @@
 
 <img width="557" alt="image" src="https://github.com/user-attachments/assets/45c4c10a-3352-4059-89e5-d1a1d5dff444" />
 
+- Gender Based Ratings show that women have higher ratings than men with a difference of 1.0, this shows that women are more satisfied than men. Based on the ratings, investigation is needed to balance satisfaction. This can be done by adjusting products or services to be more inclusive of men's expectations.
+
+<img width="356" alt="image" src="https://github.com/user-attachments/assets/19df832a-82e5-4615-8c57-f4b700e81ad8" />
+
+
 
 
 
