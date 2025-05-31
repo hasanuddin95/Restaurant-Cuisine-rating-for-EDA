@@ -1,4 +1,10 @@
 # Restaurant-Cuisine-rating-for-EDA
+
+#Questions KPis
+- How is the distribution of food, service and overall ratings?
+
+
+
 Distribusi Rating
 "Bagaimana distribusi rating makanan, layanan, dan keseluruhan? Apakah ada perbedaan signifikan antara ketiganya?"
 Analisis: Gunakan histogram (matplotlib/seaborn) dan uji statistik seperti ANOVA.
