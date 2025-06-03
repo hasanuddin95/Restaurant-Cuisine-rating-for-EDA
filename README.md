@@ -19,6 +19,9 @@
 
 - Gender Based Assessment shows that the majority of women gave ratings ranging from 2.5 to 4.0, much higher than men who mostly gave ratings ranging from 2.5 to 3.5. This shows that women are more satisfied than men, based on the rating, investigation is needed to balance satisfaction, this can be done by adjusting products or services to be more inclusive of men's expectations.
 
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/617bb2c9-2dc8-4255-b149-3d35f4281805" />
+- Based on the percentage of the number of ratings in each restaurant, it shows that the Upper West Side restaurant. NY is one of the restaurants that gets a rating of 5 which is quite a lot compared to others, even though there are still around 10% of customers who give a rating of 1.5. For Cedar Hill, Central Park and Market City, being restaurants that have a rating above 3, this shows quite good results, therefore it is necessary to improve the service and food in restaurants that have a rating below 3. What can be done is to adopt the service strategy that exists in the three restaurants that have a rating below three.
+
 
 
 
